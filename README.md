@@ -1,5 +1,5 @@
 <div align="center">
-## "Developer" | Python x TypeScript
+# "Developer" | Python x TypeScript
 
 [![Website](https://img.shields.io/badge/-crownfn.com-ffc623?style=flat-square&logo=googlechrome&logoColor=black)](https://crownfn.com)
 [![Discord](https://img.shields.io/badge/-discord.gg/crownfn-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/crownfn)
@@ -28,5 +28,5 @@
 - Discord: [discord.gg/crownfn](https://discord.gg/crownfn)
 
 <div align="center">
-<sub>## In order to learn you must start at the basics</sub>
+<sub># In order to learn you must start at the basics</sub>
 </div>
