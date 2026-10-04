@@ -9,8 +9,8 @@
 ---
 
 ### Projects:
-- **Crown Bot (Fortnite) — Fortnite discord bot with numerous commands (all free)
-- **Crown Bot (Website) — Landing page & live status for api and bot
+- **Crown Bot (Fortnite) — Fortnite discord bot with numerous commands (all free)**
+- **Crown Bot (Website) — Landing page & live status for api and bot**
 
 ### Dependancies:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -28,7 +28,5 @@
 - Discord: [discord.gg/crownfn](https://discord.gg/crownfn)
 
 <div align="center">
-
-<sub>You must enjoy coding to learn</sub>
-
+<sub>## In order to learn you must start at the basics</sub>
 </div>
